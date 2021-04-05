@@ -24,3 +24,11 @@ function countryPopulation(population){
     })
 }
 console.log(countryPopulation(20000))
+
+const movies = [{
+    name: 'The Lord of the Rings',
+    year: 2000
+},{
+    name: 'misery',
+    year: 1990
+}]
