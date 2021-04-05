@@ -1,0 +1,1 @@
+console.log('hoje é segunda-feira')
